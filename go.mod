@@ -1,4 +1,4 @@
-module github.com/Bluhabit/uwang-rest-account
+module github.com/Bluhabit/uwang-rest-content
 
 go 1.21.1
 
